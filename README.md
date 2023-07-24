@@ -13,9 +13,9 @@ This service is required for managing all operations related to book issue and r
 
 https://github.com/pooja-saraiya/configuration-server-property repository contains all common property files.
 
-Checkout the project change the pointing to your git repository or create 1 new branch and change the data base connection properties.
-By default it will point to local postgres with port no 5432.
-
+Checkout the project change the pointing to your git repository or create 1 new branch and change the database connection properties.
+If you do not change anything theb by default it will point to local postgres with port no 5432.
+To execute jar use java -jar <jar name> from command prompt where jar is placed.
 Execute config-server first as it is require to fetch property for other microservice
 Then execute eurekaservice so that all services can register to eureka.
 Execute all services and test apis from swagger or postman.
