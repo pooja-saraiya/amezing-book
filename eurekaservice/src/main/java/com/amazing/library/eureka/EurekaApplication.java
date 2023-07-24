@@ -1,4 +1,4 @@
-package com.amazing.library.configuration;
+package com.amazing.library.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

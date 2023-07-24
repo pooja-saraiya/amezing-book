@@ -8,11 +8,11 @@
         <version>2.7.13</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.amazing.library.configuration</groupId>
-    <artifactId>configuration</artifactId>
+    <groupId>com.amazing.library.eureka</groupId>
+    <artifactId>eurekaservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>configurationserver</name>
-    <description>configuration for amazing book service</description>
+    <name>eureka-server</name>
+    <description>eureka service for amazing book service</description>
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>2021.0.7</spring-cloud.version>
