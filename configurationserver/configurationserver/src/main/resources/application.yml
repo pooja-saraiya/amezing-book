@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/pooja-saraiya/configuration-server-property
+          uri: https://github.com/pooja-saraiya/configuration-server-property.git
           
 server:
   port: 8071
